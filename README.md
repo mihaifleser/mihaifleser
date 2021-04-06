@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mihaifleser
+- 👋 Hi, I’m Mihai Fleser
 - 👀 I’m interested in Java, C, C++, C#, SQL, Data Structures, Algorithms
 - 🌱 I’m currently at the Technical University of Cluj Napoca, Computer Science
 - 📫 How to reach me : mihaifleser@yahoo.com
